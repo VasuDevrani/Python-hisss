@@ -1,0 +1,3 @@
+install the python interpretor from python.org
+install the python extension in vs code
+start creating files using *.py
